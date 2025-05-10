@@ -12,7 +12,7 @@ export default function App (){
           <div className="flex flex-col md:flex-row md:flex-wrap">
             <div className="bg-green-950 md:basis-1/2 lg:basis-1/2 xl:basis-1/2 p-5 flex flex-col items-center">
               <img className="w-180 p-5 rounded-2xl shadow-2xl" src="images/sapoDeCueva.jpg" alt="Sapo de las cuevas" />
-              <p className="text-xl text-green-50 font-semibold text-center p-7">Este es un sapo de Cueva ¿Diferencia de otros sapos? este vive en als cuevas, este no anda por ahí.</p>
+              <p className="text-xl text-green-50 font-semibold text-center p-7">Este es un sapo de Cueva ¿Diferencia de otros sapos? este vive en las cuevas, este no anda por ahí.</p>
             </div>
             <div className="bg-green-950 md:basis-1/2 lg:basis-1/2 xl:basis-1/2 p-10 flex flex-col items-center">
               <img className="w-150 justify-center rounded-2xl shadow-2xl " src="images/sapoPH2.jpg" alt="Sapo de por ahí" />
@@ -36,7 +36,7 @@ export default function App (){
             </div>
             <div className="bg-green-500 md:basis-2/5 lg:basis-1/2 xl:basis-1/3 p-5 rounded-2xl">
               <img className="rounded-2xl shadow-xl" src="images/Diomedes.jpg" alt="Diomedes Diaz" />
-              <p className="text-xl font-bold text-center p-4">Se crearía una brecha espacio-tepmporal en la que se unirían varias realidades y Diomedes Diaz estaría vivo y no metería vicio</p>
+              <p className="text-xl font-bold text-center p-4">Se crearía una brecha espacio-temporal en la que se unirían varias realidades y Diomedes Diaz estaría vivo y no metería vicio</p>
             </div>
             <div className="bg-green-600 md:basis-2/5 lg:basis-1/2 xl:basis-1/3 p-5 rounded-2xl">
               <img className="rounded-2xl shadow-xl" src="images/planetaEx.webp" alt="Planeta Explotando" />
